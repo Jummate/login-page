@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/login-page/static/css/main.0b7ab873.chunk.css",
+    "main.js": "/login-page/static/js/main.c708ae64.chunk.js",
+    "main.js.map": "/login-page/static/js/main.c708ae64.chunk.js.map",
+    "runtime-main.js": "/login-page/static/js/runtime-main.a06ffa46.js",
+    "runtime-main.js.map": "/login-page/static/js/runtime-main.a06ffa46.js.map",
+    "static/js/2.2c32b882.chunk.js": "/login-page/static/js/2.2c32b882.chunk.js",
+    "static/js/2.2c32b882.chunk.js.map": "/login-page/static/js/2.2c32b882.chunk.js.map",
+    "index.html": "/login-page/index.html",
+    "static/css/main.0b7ab873.chunk.css.map": "/login-page/static/css/main.0b7ab873.chunk.css.map",
+    "static/js/2.2c32b882.chunk.js.LICENSE.txt": "/login-page/static/js/2.2c32b882.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/login-page/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a06ffa46.js",
+    "static/js/2.2c32b882.chunk.js",
+    "static/css/main.0b7ab873.chunk.css",
+    "static/js/main.c708ae64.chunk.js"
+  ]
+}
